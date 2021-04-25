@@ -185,3 +185,17 @@ Topic Name - 3) Recursion <br>
 | 7 | [You are given a number n. You need to recursively find the nth term of the series S that is given by:S(n) = n+ n*(S(n-1)) and S(0) = 1](https://practice.geeksforgeeks.org/problems/the-sequence/0/?track=DSA-Foundation-Recursion&batchId=238)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/DSA%20BASIC/3%20-%20%20Recursion/the_sequence.cpp)|
 | 8 | [You are given a two numbers a and b. Find their GCD using recursion.](https://www.geeksforgeeks.org/euclidean-algorithms-basic-and-extended/)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/DSA%20BASIC/3%20-%20%20Recursion/GCD_Euclid.cpp)|
 | 9 | [You are given two numbers n and p. You need to find n^p.](https://www.geeksforgeeks.org/python-program-to-find-the-power-of-a-number-using-recursion/)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/DSA%20BASIC/3%20-%20%20Recursion/power_using_recursion.cpp)|
+
+---
+
+Sub - DSA Advance
+Topic Name - 1) Mathematics <br>
+
+|No|Problem Name|Source Code|
+|--|------------|-----------|  
+| 1 | [You are given an interger I, find the absolute value of the interger I.](https://www.geeksforgeeks.org/program-to-find-absolute-value-of-a-given-number/)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/DSA%20ADVANCE/1%20-%20%20Mathematics/absolute_values.cpp)|
+| 2 | [Given a temperature in celsius C. You need to convert the given temperature to Fahrenheit.](https://www.geeksforgeeks.org/program-celsius-fahrenheit-conversion/)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/DSA%20ADVANCE/1%20-%20%20Mathematics/convert_celcius_to_farenhite.cpp)|
+| 3 | [Given a positive integer N. The task is to find factorial of N.](https://www.geeksforgeeks.org/program-for-factorial-of-a-number/)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/DSA%20ADVANCE/1%20-%20%20Mathematics/factorial_of_a_number.cpp)|
+| 4 | [Given an integer N. Find the number of digits that appear in its factorial.Factorial is defined as, factorial(n) = 1*2*3*4……..*N and factorial(0) = 1.](https://www.geeksforgeeks.org/count-digits-factorial-set-1/)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/DSA%20ADVANCE/1%20-%20%20Mathematics/digits_in_factorial.cpp)|
+| 5 | []()| [C++ Code]()|
+| 6 | []()| [C++ Code]()|
