@@ -149,3 +149,24 @@ Topic Name - 1) Analysis of Algorithms <br>
 |No|Problem Name|Source Code|
 |--|------------|-----------|  
 | 1 | [Quiz](https://www.geeksforgeeks.org/analysis-of-algorithms-set-1-asymptotic-analysis/)| [Pdf](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/DSA%20BASIC/1%20-%20%20Analysis%20of%20Algorithms/Quiz.pdf)|
+
+
+Topic Name - 2) Arrays <br>
+
+|No|Problem Name|Source Code|
+|--|------------|-----------|  
+| 1 | [Insertion is a basic but frequently used operation. Arrays in most languages can not be dynamically shrinked or expanded. Here, we will work with such arrays and try to insert an element at the end of the array.You are given an array arr. The size of the array is given by sizeOfArray. You need to insert an element at the end.](https://www.geeksforgeeks.org/search-insert-and-delete-in-an-unsorted-array/)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/DSA%20BASIC/2%20-%20%20Arrays/array_insert_at_end.cpp)|
+| 2 | [Insertion is a basic but frequently used operation. Arrays in most languages cannnot be dynamically shrinked or expanded. Here, we will work with such arrays and try to insert an element at some index.You are given an array arr(0-based index). The size of the array is given by sizeOfArray. You need to insert an element at given index and print the modified array.](https://www.geeksforgeeks.org/search-insert-and-delete-in-an-unsorted-array/)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/DSA%20BASIC/2%20-%20%20Arrays/array_insert_at_index.cpp)|
+| 3 | [You are given an array arr(0-based indexing). The size of the array is given by n. You need to get the element at index i and return it. If no element exists at i then return -1.](https://practice.geeksforgeeks.org/problems/get-element-at-index/0/?track=DSA-Foundation-Arrays&batchId=238)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/DSA%20BASIC/2%20-%20%20Arrays/get_element_at_index.cpp)|
+| 4 | [You are given an array arr(0-based indexing). The size of the array is given by n. You need to update an element at the given index. The arr[i] of the array is initially set to i+1.](https://www.geeksforgeeks.org/search-insert-and-delete-in-an-unsorted-array/)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/DSA%20BASIC/2%20-%20%20Arrays/array_update_at_index.cpp)|
+| 5 | []()| [C++ Code]()|
+| 6 | []()| [C++ Code]()|
+| 7 | []()| [C++ Code]()|
+| 8 | []()| [C++ Code]()|
+| 9 | []()| [C++ Code]()|
+| 10 | []()| [C++ Code]()|
+| 11 | []()| [C++ Code]()|
+| 12 | []()| [C++ Code]()|
+| 13 | []()| [C++ Code]()|
+| 14 | []()| [C++ Code]()|
+| 15 | []()| [C++ Code]()|
