@@ -94,3 +94,11 @@ Topic Name - 3) Arrays, String, Pointers & Reference
 | 22 | [You are given with a string that is in email format. Here, you have to take input of a string till the '@' character.](https://practice.geeksforgeeks.org/problems/763a4baf3538a10a744dbc550c722185edfc0b53/0/?track=cip-array-string-pointer-reference&batchId=238)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/development/GFG/C%2B%2B%20BASIC/3%20-%20%20Arrays%2C%20String%2C%20Pointers%20%26%20Reference/getline_2.cpp)|
 | 23 | [Given two char c1 and c2.  you need to print all the alphabet starting from c1 to c2 in a single line.](https://www.geeksforgeeks.org/program-to-print-alphabets-from-a-to-z-using-loop/)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/development/GFG/C%2B%2B%20BASIC/3%20-%20%20Arrays%2C%20String%2C%20Pointers%20%26%20Reference/print_alpbhabets.cpp)|
 | 24 | [You are given a string s consisting of multiple words. You need to count the total words in the string. Words are separated by a single space.](https://practice.geeksforgeeks.org/problems/count-words-in-string/0/?track=cip-array-string-pointer-reference&batchId=238)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/development/GFG/C%2B%2B%20BASIC/3%20-%20%20Arrays%2C%20String%2C%20Pointers%20%26%20Reference/count_words_in_a_string.cpp)|
+
+
+Topic Name - 4) Structure and Union
+<br>
+
+|No|Problem Name|Source Code|
+|--|------------|-----------|  
+| 1 | [Structures are very useful when we want to create Linked Lists and Trees. Here we will learn to create a Linked List struct.You have to make struct for Linked List.](https://practice.geeksforgeeks.org/problems/learning-structs/0/?track=cip-struct-union&batchId=238)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/development/GFG/C%2B%2B%20BASIC/4%20-%20%20Structure%20and%20Union/learning_structs.cpp)|
