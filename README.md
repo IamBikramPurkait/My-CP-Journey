@@ -10,7 +10,9 @@ Sub - C++ Basic
 <details>
 <summary><em><strong>1) Introduction, Variables and Operators</strong></em></summary>
 <br>
+<div align="center">
 <img align="center" src="https://img.shields.io/badge/C%2B%2B%20Basic-Introduction%2C%20Variables%20and%20Operators-blue">
+</div>
 
 |No|Problem Name|Source Code|
 |--|------------|-----------|  
