@@ -51,23 +51,17 @@ Topic Name - 2) Flow Control, Function & Loops
 | 8 | [You have to find exact volume of some objects just by knowing the some of their dimensions. Here we will find volume of a cube and a rectangular box by completing the given functions.](https://practice.geeksforgeeks.org/problems/1dc3a6ff68b90b33383d1d91e255b7a171eab092/0/?track=cip-flow-function-loop&batchId=238)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/development/GFG/C%2B%2B%20BASIC/2%20-%20%20Flow%20Control%2C%20Function%20%26%20Loops/find_volume.cpp)|
 | 9 | [You have to generate a single sum() function which can take two, three or four parameters and will return sum of all the numbers. Suppose if we are given with 2 integer values a and b we have to return (a+b), if given 3 integer values a, b and c we have to return (a+b+c) and similarly for 4 numeric values (a+b+c+d). Function call will be like this:If 2 integers : sum(a, b);If 3 integers : sum(a, b, c);If 4 integers : sum(a, b, c, d); ](https://practice.geeksforgeeks.org/problems/1629703dd82d0d2898f59a1d467238a94929f620/0/?track=cip-flow-function-loop&batchId=238)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/development/GFG/C%2B%2B%20BASIC/2%20-%20%20Flow%20Control%2C%20Function%20%26%20Loops/sum_default_arguments.cpp)|
 | 10 | [Given a number N, find the first digit of the number.](https://practice.geeksforgeeks.org/problems/first-digit-of-a-number/0/?track=cip-flow-function-loop&batchId=238)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/development/GFG/C%2B%2B%20BASIC/2%20-%20%20Flow%20Control%2C%20Function%20%26%20Loops/first_digit_of_number.cpp)|
-| 11 | []()| [C++ Code]()|
-| 12 | []()| [C++ Code]()|
-| 13 | []()| [C++ Code]()|
-| 14 | []()| [C++ Code]()|
-| 15 | []()| [C++ Code]()|
-| 16 | []()| [C++ Code]()|
-| 17 | []()| [C++ Code]()|
-| 18 | []()| [C++ Code]()|
-| 19 | []()| [C++ Code]()|
-| 20 | []()| [C++ Code]()|
-| 21 | []()| [C++ Code]()|
-| 22 | []()| [C++ Code]()|
-| 23 | []()| [C++ Code]()|
-| 24 | []()| [C++ Code]()|
-| 25 | []()| [C++ Code]()|
-| 26 | []()| [C++ Code]()|
-| 27 | []()| [C++ Code]()|
-| 28 | []()| [C++ Code]()|
-| 29 | []()| [C++ Code]()|
-| 30 | []()| [C++ Code]()|
+| 11 | [Given a number N find the prime factorization of the number.](https://practice.geeksforgeeks.org/problems/prime-factorization/0/?track=cip-flow-function-loop&batchId=238)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/development/GFG/C%2B%2B%20BASIC/2%20-%20%20Flow%20Control%2C%20Function%20%26%20Loops/prime_factorization.cpp)|
+| 12 | [Given a positive integer, N. Find the factorial of N.](https://practice.geeksforgeeks.org/problems/factorial5739/1)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/development/GFG/C%2B%2B%20BASIC/2%20-%20%20Flow%20Control%2C%20Function%20%26%20Loops/factorial.cpp)|
+| 13 | [You are given a String S, you need to print its characters at even indices(index starts at 0).](https://practice.geeksforgeeks.org/problems/for-loop-2/0/?track=cip-flow-function-loop&batchId=238)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/development/GFG/C%2B%2B%20BASIC/2%20-%20%20Flow%20Control%2C%20Function%20%26%20Loops/forloop_2.cpp)|
+| 14 | [What do you do when you need to execute certain statements more than once? You put them in a loop. Loops are very powerful. Majority of coding questions need loops to work. You can't even input testcases without loops!Here, we will use for loop and check if the given number n is prime or not.Note: A number is prime if it's divisible by itself and 1. Also, 1 is not prime.](https://practice.geeksforgeeks.org/problems/for-loop-primechecl/1)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/development/GFG/C%2B%2B%20BASIC/2%20-%20%20Flow%20Control%2C%20Function%20%26%20Loops/forloop_prime_check.cpp)|
+| 15 | [While loop is another loop like for loop but unlike for loop it only checks for one condition.Here, we will use while loop and print a number n's table in reverse order.](https://practice.geeksforgeeks.org/problems/while-loop-printtable/1)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/development/GFG/C%2B%2B%20BASIC/2%20-%20%20Flow%20Control%2C%20Function%20%26%20Loops/while_loop_print_table.cpp)|
+| 16 | [Given two number n1 and n2, n1 > n2. Find the differences between mathematical tables of n1 and n2.](https://practice.geeksforgeeks.org/problems/table-difference/0/?track=cip-flow-function-loop&batchId=238)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/development/GFG/C%2B%2B%20BASIC/2%20-%20%20Flow%20Control%2C%20Function%20%26%20Loops/table_difference.cpp)|
+| 17 | [Given a number N. Count the number of digits in N which evenly divides N.](https://practice.geeksforgeeks.org/problems/count-digits/0)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/development/GFG/C%2B%2B%20BASIC/2%20-%20%20Flow%20Control%2C%20Function%20%26%20Loops/count_digits.cpp)|
+| 18 | [Given an integer s. Write a program to print the Right angle triangle wall. The length of perpendicular and base is s.](https://practice.geeksforgeeks.org/problems/right-angle-triangle-1605685807/0/?track=cip-flow-function-loop&batchId=238)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/development/GFG/C%2B%2B%20BASIC/2%20-%20%20Flow%20Control%2C%20Function%20%26%20Loops/right_angle_triangle.cpp)|
+| 19 | [Given an integer N. Write a program to print all the divisors of N.](https://practice.geeksforgeeks.org/problems/divisor/0/?track=cip-flow-function-loop&batchId=238)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/development/GFG/C%2B%2B%20BASIC/2%20-%20%20Flow%20Control%2C%20Function%20%26%20Loops/divisor.cpp)|
+| 20 | [Given an integer n check if n is prime or not.
+A prime number is a number that is divisible by 1 and itself only.](https://practice.geeksforgeeks.org/problems/check-prime/0/?track=cip-flow-function-loop&batchId=238)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/development/GFG/C%2B%2B%20BASIC/2%20-%20%20Flow%20Control%2C%20Function%20%26%20Loops/check_prime.cpp)|
+| 21 | [Given an integer n. Write a program to find the prime number next to n.](https://www.geeksforgeeks.org/program-to-find-the-next-prime-number/)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/development/GFG/C%2B%2B%20BASIC/2%20-%20%20Flow%20Control%2C%20Function%20%26%20Loops/next_prime_number.cpp)|
+| 22 | [Given two numbers A and B. The task is to find the GCD of  A and B.The GCD of two numbers is the largest number that can divide both A and B perfectly.](https://practice.geeksforgeeks.org/problems/gcd/0/?track=cip-flow-function-loop&batchId=238)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/development/GFG/C%2B%2B%20BASIC/2%20-%20%20Flow%20Control%2C%20Function%20%26%20Loops/gcd.cpp)|
+| 23 | [Given two numbers a and b. The task is to find out their LCM.](https://practice.geeksforgeeks.org/problems/lcm/0/?track=cip-flow-function-loop&batchId=238)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/development/GFG/C%2B%2B%20BASIC/2%20-%20%20Flow%20Control%2C%20Function%20%26%20Loops/lcm.cpp)|
