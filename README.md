@@ -8,6 +8,7 @@ Sub - C++ Basic
 ![C++ Basic](https://img.shields.io/badge/C%2B%2B%20Basic-Introduction%2C%20Variables%20and%20Operators-blue)
 <details>
 <summary><em><strong>1) Introduction, Variables and Operators</strong></em></summary>
+<br>
 
 |No|Problem Name|Source Code|
 |--|------------|-----------|  
@@ -41,6 +42,7 @@ Sub - C++ Basic
 
 <details>
 <summary><em><strong>2) Flow Control, Function & Loops</em></strong></summary>
+<br>
 
 |No|Problem Name|Source Code|
 |--|-----------|-----------|  
@@ -72,6 +74,7 @@ Sub - C++ Basic
 
 <details>
 <summary><em><strong>3) Arrays, String, Pointers & Reference</em></strong></summary>
+<br>
 
 |No|Problem Name|Source Code|
 |--|------------|-----------|  
@@ -104,6 +107,7 @@ Sub - C++ Basic
 
 <details>
 <summary><em><strong>4) Structure and Union</em></strong></summary>
+<br>
 
 |No|Problem Name|Source Code|
 |--|------------|-----------|  
