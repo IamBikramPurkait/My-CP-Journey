@@ -2,12 +2,12 @@
 In this repo i am upload all code which i am solve throughout my journey learn CP.
 
 <h1 align="center">GFG</h1>
-Sub - C++ Basic
-<br>
 
-![C++ Basic](https://img.shields.io/badge/C%2B%2B-Basic-blue)
 
-<img align="center" src="https://img.shields.io/badge/C%2B%2B-Basic-blue">
+
+<div align="center">
+<img src="https://img.shields.io/badge/C%2B%2B-Basic-blue">
+</div>
 
 <details>
 <summary><em><strong>1) Introduction, Variables and Operators</strong></em></summary>
