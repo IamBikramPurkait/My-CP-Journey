@@ -209,9 +209,9 @@ Topic Name - 9) Strings <br>
 | 2 | [You are given a string s. You need to count the total vowels in the string. The string s contains lowercase letters only.](https://www.geeksforgeeks.org/program-count-vowels-string-iterative-recursive/)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/DSA%20ADVANCE/9%20-%20Strings/vowels_in_strings.cpp)|
 | 3 | [You are given a string s. You need to count the total distinct vowels in the string. The string s contains lowercase letters only.](https://www.geeksforgeeks.org/program-count-vowels-string-iterative-recursive/)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/DSA%20ADVANCE/9%20-%20Strings/count_distinct_variable_in_string.cpp)|
 | 4 | [You are given a string s consisting of multiple words. You need to count the total words in the string. Words are separated by a single space.](https://www.geeksforgeeks.org/count-words-in-a-given-string/)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/DSA%20ADVANCE/9%20-%20Strings/count_words_in_a_string.cpp)|
-| 5 | []()| [C++ Code]()|
-| 6 | []()| [C++ Code]()|
-| 7 | []()| [C++ Code]()|
+| 5 | [You are given a string s. You need to reverse the string.](https://practice.geeksforgeeks.org/problems/reverse-a-string/1)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/DSA%20ADVANCE/9%20-%20Strings/reverse_string.cpp)|
+| 6 | [You are given a string s. You need to convert the case of lowercase letter to uppercase letters.](https://www.geeksforgeeks.org/lower-case-upper-case-interesting-fact/)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/DSA%20ADVANCE/9%20-%20Strings/lowercase_to_uppercase.cpp)|
+| 7 | [You are given a string s. You need to convert the case of uppercase letters to lowercase letters.](https://www.geeksforgeeks.org/convert-alternate-characters-string-upper-case/)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/DSA%20ADVANCE/9%20-%20Strings/uppercase_to_lowercase.cpp)|
 | 8 | []()| [C++ Code]()|
 | 9 | []()| [C++ Code]()|
 | 10 | []()| [C++ Code]()|
