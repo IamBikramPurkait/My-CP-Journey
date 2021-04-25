@@ -7,6 +7,7 @@ In this repo i am upload all code which i am solve throughout my journey learn C
 "images/gfg.png" alt="GeeksforGeeks logo">
 </div>
 <br>
+<br>
 
 <div align="center">
 <img src="https://img.shields.io/badge/C%2B%2B-Basic-blue" height="30px">
