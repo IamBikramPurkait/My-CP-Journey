@@ -64,3 +64,39 @@ Topic Name - 2) Flow Control, Function & Loops
 | 21 | [Given an integer n. Write a program to find the prime number next to n.](https://www.geeksforgeeks.org/program-to-find-the-next-prime-number/)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/development/GFG/C%2B%2B%20BASIC/2%20-%20%20Flow%20Control%2C%20Function%20%26%20Loops/next_prime_number.cpp)|
 | 22 | [Given two numbers A and B. The task is to find the GCD of  A and B.The GCD of two numbers is the largest number that can divide both A and B perfectly.](https://practice.geeksforgeeks.org/problems/gcd/0/?track=cip-flow-function-loop&batchId=238)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/development/GFG/C%2B%2B%20BASIC/2%20-%20%20Flow%20Control%2C%20Function%20%26%20Loops/gcd.cpp)|
 | 23 | [Given two numbers a and b. The task is to find out their LCM.](https://practice.geeksforgeeks.org/problems/lcm/0/?track=cip-flow-function-loop&batchId=238)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/development/GFG/C%2B%2B%20BASIC/2%20-%20%20Flow%20Control%2C%20Function%20%26%20Loops/lcm.cpp)|
+
+Topic Name - 3) Arrays, String, Pointers & Reference
+<br>
+
+|No|Problem Name|Source Code|
+|--|------------|-----------|  
+| 1 | [You are given an array that contains integers. You need to print the elements of the array with in reverse order with a space between them.](https://practice.geeksforgeeks.org/problems/array-traversal-reverse/1/?track=cip-array-string-pointer-reference&batchId=238)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/development/GFG/C%2B%2B%20BASIC/3%20-%20%20Arrays%2C%20String%2C%20Pointers%20%26%20Reference/array_traversal_reverse.cpp)|
+| 2 | [Given an integer array arr of size n, you need to sum the elements of arr.](https://practice.geeksforgeeks.org/problems/sum-of-array-elements2502/1)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/development/GFG/C%2B%2B%20BASIC/3%20-%20%20Arrays%2C%20String%2C%20Pointers%20%26%20Reference/sum_all_array_elements.cpp)|
+| 3 | [Given an array A[] of N elements. The task is to count number of even and odd elements in the array.](https://practice.geeksforgeeks.org/problems/count-odd-even/1)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/development/GFG/C%2B%2B%20BASIC/3%20-%20%20Arrays%2C%20String%2C%20Pointers%20%26%20Reference/count_odd_even.cpp)|
+| 4 | [Insertion is a basic but frequently used operation. Arrays in most languages cannnot be dynamically shrinked or expanded. Here, we will work with such arrays and try to insert an element at some index.You are given an array arr(0-based index). The size of the array is given by sizeOfArray. You need to insert an element at given index and print the modified array.](https://practice.geeksforgeeks.org/problems/array-insert-at-index/0/?track=cip-array-string-pointer-reference&batchId=238)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/development/GFG/C%2B%2B%20BASIC/3%20-%20%20Arrays%2C%20String%2C%20Pointers%20%26%20Reference/array_insert_at_index.cpp)|
+| 5 | [You are given an array that contains integers. You need to decrement each element of the array by 1 and return the array.](https://practice.geeksforgeeks.org/problems/decrement-array-values/0/?track=cip-array-string-pointer-reference&batchId=238)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/development/GFG/C%2B%2B%20BASIC/3%20-%20%20Arrays%2C%20String%2C%20Pointers%20%26%20Reference/decrement_array_values.cpp)|
+| 6 | [Given an array arr[] of size N, check if it is sorted in non-decreasing order or not. ](https://practice.geeksforgeeks.org/problems/check-if-an-array-is-sorted0701/0/?track=cip-array-string-pointer-reference&batchId=238)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/development/GFG/C%2B%2B%20BASIC/3%20-%20%20Arrays%2C%20String%2C%20Pointers%20%26%20Reference/check_if_array_is_sorted.cpp)|
+| 7 | [Given an array of size N consisting of only 0's and 1's. The array is sorted in such a manner that all the 1's are placed first and then they are followed by all the 0's. Find the count of all the 0's.](https://practice.geeksforgeeks.org/problems/count-the-zeros2550/0/?track=cip-array-string-pointer-reference&batchId=238)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/development/GFG/C%2B%2B%20BASIC/3%20-%20%20Arrays%2C%20String%2C%20Pointers%20%26%20Reference/count_the_zeros.cpp)|
+| 8 | [Given an array a[], find the size of the array.](https://practice.geeksforgeeks.org/problems/size-of-an-array/0/?track=cip-array-string-pointer-reference&batchId=238)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/development/GFG/C%2B%2B%20BASIC/3%20-%20%20Arrays%2C%20String%2C%20Pointers%20%26%20Reference/size_of_an_array.cpp)|
+| 9 | [Insertion is a basic but frequently used operation. Arrays in most languages cannnot be dynamically shrinked or expanded. Here, we will work with such arrays and try to insert an element at some index.You are given an array arr(0-based index). The size of the array is given by sizeOfArray. You need to insert an element at given index and print the modified array.](https://practice.geeksforgeeks.org/problems/array-insert-at-index/0/?track=cip-array-string-pointer-reference&batchId=238)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/development/GFG/C%2B%2B%20BASIC/3%20-%20%20Arrays%2C%20String%2C%20Pointers%20%26%20Reference/array_insert_at_index.cpp)|
+| 10 | []()| [C++ Code]()|
+| 11 | []()| [C++ Code]()|
+| 12 | []()| [C++ Code]()|
+| 13 | []()| [C++ Code]()|
+| 14 | []()| [C++ Code]()|
+| 15 | []()| [C++ Code]()|
+| 16 | []()| [C++ Code]()|
+| 17 | []()| [C++ Code]()|
+| 18 | []()| [C++ Code]()|
+| 19 | []()| [C++ Code]()|
+| 20 | []()| [C++ Code]()|
+| 21 | []()| [C++ Code]()|
+| 22 | []()| [C++ Code]()|
+| 23 | []()| [C++ Code]()|
+| 24 | []()| [C++ Code]()|
+| 25 | []()| [C++ Code]()|
+| 26 | []()| [C++ Code]()|
+| 27 | []()| [C++ Code]()|
+| 28 | []()| [C++ Code]()|
+| 29 | []()| [C++ Code]()|
+| 30 | []()| [C++ Code]()|
