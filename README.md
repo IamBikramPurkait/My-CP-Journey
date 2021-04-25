@@ -117,7 +117,7 @@ In this repo i am upload all code which i am solve throughout my journey learn C
 | 1 | [Structures are very useful when we want to create Linked Lists and Trees. Here we will learn to create a Linked List struct.You have to make struct for Linked List.](https://practice.geeksforgeeks.org/problems/learning-structs/0/?track=cip-struct-union&batchId=238)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/C%2B%2B%20BASIC/4%20-%20%20Structure%20and%20Union/learning_structs.cpp)|
 </details>
 
----
+
 
 
 <div align="center">
@@ -168,7 +168,6 @@ In this repo i am upload all code which i am solve throughout my journey learn C
 | 12 | [Given a vector V of n elements. Return the vector containing prime numbers that are at prime index(1-indexing).](https://www.geeksforgeeks.org/program-print-characters-present-prime-index-given-string/)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/CPP%20STL/3%20-%20%20Vector/prime_at_prime_index.cpp)|
 </details>
 
-<!-- --- -->
 
 
 <div align="center">
@@ -227,7 +226,7 @@ In this repo i am upload all code which i am solve throughout my journey learn C
 | 9 | [You are given two numbers n and p. You need to find n^p.](https://www.geeksforgeeks.org/python-program-to-find-the-power-of-a-number-using-recursion/)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/DSA%20BASIC/3%20-%20%20Recursion/power_using_recursion.cpp)|
 </details>
 
----
+
 
 
 <div align="center">
