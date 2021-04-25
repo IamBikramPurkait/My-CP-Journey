@@ -6,7 +6,7 @@ Sub - C++ Basic
 <br>
 
 <details>
-<summary><h3> 1) Introduction, Variables and Operators</h3></summary>
+<summary>1) Introduction, Variables and Operators</summary>
 
 |No|Problem Name|Source Code|
 |--|------------|-----------|  
@@ -35,12 +35,11 @@ Sub - C++ Basic
 | 23 | [Given two positive integers a and b. Your task is to perform right shift bitwise operation on it as given below:Do a>>b.](https://practice.geeksforgeeks.org/problems/bitwise-right-shift/0/?track=cip-intro-var-operators&batchId=238) | [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/C%2B%2B%20BASIC/1%20-%20Introduction%2C%20Variables%20and%20Operators/bitwise_right_shift.cpp) | 
 | 24 | [Given an integer N. Write a program to find last digit of the number.](https://practice.geeksforgeeks.org/problems/last-digit-of-a-number/0/?track=cip-intro-var-operators&batchId=238) | [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/C%2B%2B%20BASIC/1%20-%20Introduction%2C%20Variables%20and%20Operators/last_digit_of_a_number.cpp) | 
 | 25 | [Given three integer, a,d and n. Where a is the first term, d is the common difference of an A.P.  Calculate the nth term of A.P.  The nth term is given by an = a + (n-1)d](https://practice.geeksforgeeks.org/problems/ap-term/0/?track=cip-intro-var-operators&batchId=238) | [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/C%2B%2B%20BASIC/1%20-%20Introduction%2C%20Variables%20and%20Operators/AP_term.cpp) | 
-
-
 </details>
 
-Topic Name - 2) Flow Control, Function & Loops
-<br>
+
+<details>
+<summary>2) Flow Control, Function & Loops</summary>
 
 |No|Problem Name|Source Code|
 |--|-----------|-----------|  
@@ -67,9 +66,11 @@ Topic Name - 2) Flow Control, Function & Loops
 | 21 | [Given an integer n. Write a program to find the prime number next to n.](https://www.geeksforgeeks.org/program-to-find-the-next-prime-number/)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/C%2B%2B%20BASIC/2%20-%20%20Flow%20Control%2C%20Function%20%26%20Loops/next_prime_number.cpp)|
 | 22 | [Given two numbers A and B. The task is to find the GCD of  A and B.The GCD of two numbers is the largest number that can divide both A and B perfectly.](https://practice.geeksforgeeks.org/problems/gcd/0/?track=cip-flow-function-loop&batchId=238)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/C%2B%2B%20BASIC/2%20-%20%20Flow%20Control%2C%20Function%20%26%20Loops/gcd.cpp)|
 | 23 | [Given two numbers a and b. The task is to find out their LCM.](https://practice.geeksforgeeks.org/problems/lcm/0/?track=cip-flow-function-loop&batchId=238)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/C%2B%2B%20BASIC/2%20-%20%20Flow%20Control%2C%20Function%20%26%20Loops/lcm.cpp)|
+</details>
 
-Topic Name - 3) Arrays, String, Pointers & Reference
-<br>
+
+<details>
+<summary>3) Arrays, String, Pointers & Reference</summary>
 
 |No|Problem Name|Source Code|
 |--|------------|-----------|  
@@ -97,14 +98,16 @@ Topic Name - 3) Arrays, String, Pointers & Reference
 | 22 | [You are given with a string that is in email format. Here, you have to take input of a string till the '@' character.](https://practice.geeksforgeeks.org/problems/763a4baf3538a10a744dbc550c722185edfc0b53/0/?track=cip-array-string-pointer-reference&batchId=238)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/C%2B%2B%20BASIC/3%20-%20%20Arrays%2C%20String%2C%20Pointers%20%26%20Reference/getline_2.cpp)|
 | 23 | [Given two char c1 and c2.  you need to print all the alphabet starting from c1 to c2 in a single line.](https://www.geeksforgeeks.org/program-to-print-alphabets-from-a-to-z-using-loop/)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/C%2B%2B%20BASIC/3%20-%20%20Arrays%2C%20String%2C%20Pointers%20%26%20Reference/print_alpbhabets.cpp)|
 | 24 | [You are given a string s consisting of multiple words. You need to count the total words in the string. Words are separated by a single space.](https://practice.geeksforgeeks.org/problems/count-words-in-string/0/?track=cip-array-string-pointer-reference&batchId=238)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/C%2B%2B%20BASIC/3%20-%20%20Arrays%2C%20String%2C%20Pointers%20%26%20Reference/count_words_in_a_string.cpp)|
+</details>
 
 
-Topic Name - 4) Structure and Union
-<br>
+<details>
+<summary>4) Structure and Union</summary>
 
 |No|Problem Name|Source Code|
 |--|------------|-----------|  
 | 1 | [Structures are very useful when we want to create Linked Lists and Trees. Here we will learn to create a Linked List struct.You have to make struct for Linked List.](https://practice.geeksforgeeks.org/problems/learning-structs/0/?track=cip-struct-union&batchId=238)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/C%2B%2B%20BASIC/4%20-%20%20Structure%20and%20Union/learning_structs.cpp)|
+</details>
 
 ---
 
