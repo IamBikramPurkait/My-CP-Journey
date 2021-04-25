@@ -5,7 +5,9 @@ In this repo i am upload all code which i am solve throughout my journey learn C
 Sub - C++ Basic
 <br>
 
-![C++ Basic](https://img.shields.io/badge/C%2B%2B%20Basic-Introduction%2C%20Variables%20and%20Operators-blue)
+![C++ Basic](https://img.shields.io/badge/C%2B%2B-Basic-blue)
+
+<img align="center" src="https://img.shields.io/badge/C%2B%2B-Basic-blue">
 
 <details>
 <summary><em><strong>1) Introduction, Variables and Operators</strong></em></summary>
