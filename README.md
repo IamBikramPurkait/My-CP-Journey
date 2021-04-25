@@ -10,9 +10,6 @@ Sub - C++ Basic
 <details>
 <summary><em><strong>1) Introduction, Variables and Operators</strong></em></summary>
 <br>
-<div align="center">
-<img align="center" src="https://img.shields.io/badge/C%2B%2B%20Basic-Introduction%2C%20Variables%20and%20Operators-blue">
-</div>
 
 |No|Problem Name|Source Code|
 |--|------------|-----------|  
@@ -121,15 +118,22 @@ Sub - C++ Basic
 ---
 
 Sub - C++ STL<br>
-Topic Name - 1) STL Overview<br>
+
+
+<details>
+<summary><em><strong>1) STL Overview</strong></em></summary>
+<br>
 
 |No|Problem Name|Source Code|
 |--|------------|-----------|  
 | 1 | [Template in C++ is a feature. We write code once and use it for any data type including user defined data types.Given three cases :1st case when two strings are given , print the smallest of the two strings.2nd case when two integers are given, print the smallest of the two integers.3rd case when two char are given , print the smallest of the two characters(lowercase).Your task is to complete class minElement which would include a private variable say y, a constructor which would set the given value to the private variable. And a method check() which would take one parameter say x and print the min of x and y(private variable) .First line of each input will contain 1 integer c. Next line will contain two strings if c is equal to 1 or will contain two integers if c is equal to 2 or will contain two char if value of c is equal to 3. We have to print the lowest of the two values given.](https://www.geeksforgeeks.org/templates-cpp/)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/CPP%20STL/1%20-%20%20STL%20Overview/c%2B%2B_template.cpp)|
 | 2 | [You need to sort elements of an array where the array can be of following data-types:Integer,String,floating number.Your task is to complete the given two functions: sortArray() and printArray().The input line contains 2 lines. The first line contains n(size of array) and q(type of array) separated by space. Below is the description about q.q = 1, means elements of the array are of integer type,q = 2, means elements of the array are of string type,q = 3, means elements of array are of floating digit type,The second line contains n elements of the array separated by space.We have to print the elements in sorted form of given type of array separated by space.](https://practice.geeksforgeeks.org/problems/c-generic-sort/1)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/CPP%20STL/1%20-%20%20STL%20Overview/c%2B%2B_generic_sort.cpp)|
+</details>
 
 
-Topic Name - 2) Pairs <br>
+<details>
+<summary><em><strong>2) Pairs</strong></em></summary>
+<br>
 
 |No|Problem Name|Source Code|
 |--|------------|-----------|  
@@ -137,9 +141,12 @@ Topic Name - 2) Pairs <br>
 | 2 | [Given an array of elements of size N containing positive integers. The task is to make pair of elements given in array such that 1st element will be paired with last element, 2nd element with 2nd last, 3rd element with 3rd last and so on. If the array is of odd size then make middle element as a pair with itself.](https://www.geeksforgeeks.org/pair-in-cpp-stl/)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/CPP%20STL/2%20-%20%20Pairs/pairing_elements.cpp)|
 | 3 | [Given two arrays arr1[] and arr2[] of size N. The task is to make pairs containing values corresponding from arr1 and arr2 i.e. (arr1[0], arr2[0]), (arr1[1],arr2[1]) and so on.](https://www.geeksforgeeks.org/pair-in-cpp-stl/)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/CPP%20STL/2%20-%20%20Pairs/corresponding_pair.cpp)|
 | 4 | [You are given two arrays a[] (integer) and b[] (char). The ith value of a[] corresponds to the ith value of b[]. Sort the array b[] with respect to a[].](https://www.geeksforgeeks.org/sort-array-according-order-defined-another-array/)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/CPP%20STL/2%20-%20%20Pairs/sort_one_array_to_according_array.cpp)|
+</details>
 
 
-Topic Name - 3) Vector <br>
+<details>
+<summary><em><strong>3) Vector</strong></em></summary>
+<br>
 
 |No|Problem Name|Source Code|
 |--|------------|-----------|  
@@ -155,18 +162,26 @@ Topic Name - 3) Vector <br>
 | 10 | [Given a vector of pairs of size n where first element of pair is the age and the second element is the height, you need to sort the vector of pairs in descending order by the second item of the pair. And if the second items are equal, then sort it by first element.](https://www.geeksforgeeks.org/sorting-vector-of-pairs-in-c-set-1-sort-by-first-and-second/)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/CPP%20STL/3%20-%20%20Vector/sort_vectors_of_pairs.cpp)|
 | 11 | [We will be given the roll number along with marks. One student may have a different number of subjects. We will also be given subjects code in numeric forms. We need to return the list in ascending order such that if roll numbers are the same then we should return the list in ascending order of the marks and if marks are also same then return the list in ascending order of their subject code.](https://practice.geeksforgeeks.org/problems/increasing-roll-and-marks/0/?track=cip-vector&batchId=238)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/CPP%20STL/3%20-%20%20Vector/increasing_roll_and_marks.cpp)|
 | 12 | [Given a vector V of n elements. Return the vector containing prime numbers that are at prime index(1-indexing).](https://www.geeksforgeeks.org/program-print-characters-present-prime-index-given-string/)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/CPP%20STL/3%20-%20%20Vector/prime_at_prime_index.cpp)|
+</details>
 
 ---
 
 Sub - DSA Basic <br>
-Topic Name - 1) Analysis of Algorithms <br>
+
+
+<details>
+<summary><em><strong>1) Analysis of Algorithm</strong></em></summary>
+<br>
 
 |No|Problem Name|Source Code|
 |--|------------|-----------|  
 | 1 | [Quiz](https://www.geeksforgeeks.org/analysis-of-algorithms-set-1-asymptotic-analysis/)| [Pdf](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/DSA%20BASIC/1%20-%20%20Analysis%20of%20Algorithms/Quiz.pdf)|
+</details>
 
 
-Topic Name - 2) Arrays <br>
+<details>
+<summary><em><strong>2) Arrays</strong></em></summary>
+<br>
 
 |No|Problem Name|Source Code|
 |--|------------|-----------|  
@@ -185,9 +200,12 @@ Topic Name - 2) Arrays <br>
 | 13 | [Given an integer array arr of size n, you need to sum the elements of arr.](https://practice.geeksforgeeks.org/problems/sum-of-array-elements2502/1)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/DSA%20BASIC/2%20-%20%20Arrays/sum_of_array_elements.cpp)|
 | 14 | [Given an array a[ ] of size N. The task is to find the median and mean of the array elements. Mean is average of the numbers and median is the element which is smaller than half of the elements and greater than remaining half.  If there are odd elements, the median is simply the middle element in the sorted array. If there are even elements, then the median is floor of average of two middle numbers in the sorted array. If mean is floating point number, then we need to print floor of it.Note: To find the median, you might need to sort the array. Since sorting is covered in later tracks, we have already provided the sort function to you in the code.](https://www.geeksforgeeks.org/program-for-mean-and-median-of-an-unsorted-array/)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/DSA%20BASIC/2%20-%20%20Arrays/mean_and_median_of_an_array.cpp)|
 | 15 | [Given an array a[ ] of size N. The task is to check if array is sorted or not. A sorted array can either be increasingly sorted or decreasingly sorted. Also consider duplicate elements to be sorted.](https://practice.geeksforgeeks.org/problems/is-array-sorted/0/?track=DSA-Foundation-Arrays&batchId=238)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/DSA%20BASIC/2%20-%20%20Arrays/is_array_sorted.cpp)|
+</details>
 
 
-Topic Name - 3) Recursion <br>
+<details>
+<summary><em><strong>3) Recursion</strong></em></summary>
+<br>
 
 |No|Problem Name|Source Code|
 |--|------------|-----------|  
@@ -200,11 +218,15 @@ Topic Name - 3) Recursion <br>
 | 7 | [You are given a number n. You need to recursively find the nth term of the series S that is given by:S(n) = n+ n*(S(n-1)) and S(0) = 1](https://practice.geeksforgeeks.org/problems/the-sequence/0/?track=DSA-Foundation-Recursion&batchId=238)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/DSA%20BASIC/3%20-%20%20Recursion/the_sequence.cpp)|
 | 8 | [You are given a two numbers a and b. Find their GCD using recursion.](https://www.geeksforgeeks.org/euclidean-algorithms-basic-and-extended/)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/DSA%20BASIC/3%20-%20%20Recursion/GCD_Euclid.cpp)|
 | 9 | [You are given two numbers n and p. You need to find n^p.](https://www.geeksforgeeks.org/python-program-to-find-the-power-of-a-number-using-recursion/)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/DSA%20BASIC/3%20-%20%20Recursion/power_using_recursion.cpp)|
+</details>
 
 ---
 
 Sub - DSA Advance <br>
-Topic Name - 1) Mathematics <br>
+
+<details>
+<summary><em><strong>1) Mathematics</strong></em></summary>
+<br>
 
 |No|Problem Name|Source Code|
 |--|------------|-----------|  
@@ -214,9 +236,12 @@ Topic Name - 1) Mathematics <br>
 | 4 | [Given an integer N. Find the number of digits that appear in its factorial.Factorial is defined as, factorial(n) = 1*2*3*4……..*N and factorial(0) = 1.](https://www.geeksforgeeks.org/count-digits-factorial-set-1/)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/DSA%20ADVANCE/1%20-%20%20Mathematics/digits_in_factorial.cpp)|
 | 5 | [Given the first 2 terms A and B of a Geometric Series. The task is to find the Nth term of the series.](https://www.geeksforgeeks.org/find-nth-term-geometric-progression-series/)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/DSA%20ADVANCE/1%20-%20%20Mathematics/gp_term.cpp)|
 | 6 | [A prime number is a number which is only divisible by 1 and itself.Given number N check if it is prime or not.](https://www.geeksforgeeks.org/primality-test-set-1-introduction-and-school-method/)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/DSA%20ADVANCE/1%20-%20%20Mathematics/primality_test.cpp)|
+</details>
 
 
-Topic Name - 9) Strings <br>
+<details>
+<summary><em><strong>9) Strings</strong></em></summary>
+<br>
 
 |No|Problem Name|Source Code|
 |--|------------|-----------|  
@@ -230,3 +255,4 @@ Topic Name - 9) Strings <br>
 | 8 | [Given a string S and a pattern P both of lowercase characters. The task is to check if the given pattern exists in the given string or not.](https://www.geeksforgeeks.org/naive-algorithm-for-pattern-searching/)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/DSA%20ADVANCE/9%20-%20Strings/naive_pattern_search.cpp)|
 | 9 | [Given a string S and a pattern P consisting of lowercase characters. The task is to check if pattern P exists in the given string S or not.](https://practice.geeksforgeeks.org/problems/distinct-pattern-search-1587115620/0/?track=P100-Strings%20%20%20&batchId=238)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/DSA%20ADVANCE/9%20-%20Strings/pattern_serach.cpp)|
 | 10 | [Your task is to implement the function strstr. The function takes two strings as arguments (s,x) and  locates the occurrence of the string x in the string s. The function returns and integer denoting the first occurrence of the string x in s (0 based indexing).](https://practice.geeksforgeeks.org/problems/implement-strstr/1)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/DSA%20ADVANCE/9%20-%20Strings/implement_strstr.cpp)|
+</details>
