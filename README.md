@@ -2,6 +2,8 @@
 
 >In this repo I am upload all code which i am solved throughout my journey learn CP.
 
+<br>
+
 <div align="center">
 <img src=
 "images/gfg.png" alt="GeeksforGeeks logo" width="350px">
