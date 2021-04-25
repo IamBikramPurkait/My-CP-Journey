@@ -170,3 +170,18 @@ Topic Name - 2) Arrays <br>
 | 13 | [Given an integer array arr of size n, you need to sum the elements of arr.](https://practice.geeksforgeeks.org/problems/sum-of-array-elements2502/1)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/DSA%20BASIC/2%20-%20%20Arrays/sum_of_array_elements.cpp)|
 | 14 | [Given an array a[ ] of size N. The task is to find the median and mean of the array elements. Mean is average of the numbers and median is the element which is smaller than half of the elements and greater than remaining half.  If there are odd elements, the median is simply the middle element in the sorted array. If there are even elements, then the median is floor of average of two middle numbers in the sorted array. If mean is floating point number, then we need to print floor of it.Note: To find the median, you might need to sort the array. Since sorting is covered in later tracks, we have already provided the sort function to you in the code.](https://www.geeksforgeeks.org/program-for-mean-and-median-of-an-unsorted-array/)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/DSA%20BASIC/2%20-%20%20Arrays/mean_and_median_of_an_array.cpp)|
 | 15 | [Given an array a[ ] of size N. The task is to check if array is sorted or not. A sorted array can either be increasingly sorted or decreasingly sorted. Also consider duplicate elements to be sorted.](https://practice.geeksforgeeks.org/problems/is-array-sorted/0/?track=DSA-Foundation-Arrays&batchId=238)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/DSA%20BASIC/2%20-%20%20Arrays/is_array_sorted.cpp)|
+
+
+Topic Name - 3) Recursion <br>
+
+|No|Problem Name|Source Code|
+|--|------------|-----------|  
+| 1 | [Print numbers from 1 to N without the help of loops.](https://www.geeksforgeeks.org/how-will-you-print-numbers-from-1-to-200-without-using-loop/)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/DSA%20BASIC/3%20-%20%20Recursion/print_1_to_N_without_loop.cpp)|
+| 2 | [You are given a number n. You need to recursively find the factorial of n and return it.](https://www.geeksforgeeks.org/program-for-factorial-of-a-number/)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/DSA%20BASIC/3%20-%20%20Recursion/factorial_using_recursion.cpp)|
+| 3 | [You are given a number n. You need to find the count of digits in n.](https://www.geeksforgeeks.org/count-total-number-digits-1-n/)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/DSA%20BASIC/3%20-%20%20Recursion/count_total_digits_of_a_number.cpp)|
+| 4 | [You are given a number n. You need to find the sum of digits of n.](https://www.geeksforgeeks.org/program-for-sum-of-the-digits-of-a-given-number/)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/DSA%20BASIC/3%20-%20%20Recursion/sum_of_a_digits_of_a_number.cpp)|
+| 5 | []()| [C++ Code]()|
+| 6 | []()| [C++ Code]()|
+| 7 | []()| [C++ Code]()|
+| 8 | []()| [C++ Code]()|
+| 9 | []()| [C++ Code]()|
