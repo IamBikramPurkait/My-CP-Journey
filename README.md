@@ -168,7 +168,7 @@ In this repo i am upload all code which i am solve throughout my journey learn C
 | 12 | [Given a vector V of n elements. Return the vector containing prime numbers that are at prime index(1-indexing).](https://www.geeksforgeeks.org/program-print-characters-present-prime-index-given-string/)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/CPP%20STL/3%20-%20%20Vector/prime_at_prime_index.cpp)|
 </details>
 
----
+<!-- --- -->
 
 
 <div align="center">
