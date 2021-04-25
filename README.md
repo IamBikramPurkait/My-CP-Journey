@@ -3,7 +3,11 @@ In this repo i am upload all code which i am solve throughout my journey learn C
 
 <h1 align="center">GFG</h1>
 
-
+<div align="center">
+<img src=
+"https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190710102234/download3.png" alt="GeeksforGeeks logo" height="100px" width="100px">
+</div>
+<br>
 
 <div align="center">
 <img src="https://img.shields.io/badge/C%2B%2B-Basic-blue" height="30px">
