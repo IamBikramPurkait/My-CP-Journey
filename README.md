@@ -5,7 +5,7 @@ In this repo i am upload all code which i am solve throughout my journey learn C
 
 <div align="center">
 <img src=
-"https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190710102234/download3.png" alt="GeeksforGeeks logo" height="100px" width="100px">
+"images/gfg.png" alt="GeeksforGeeks logo">
 </div>
 <br>
 
