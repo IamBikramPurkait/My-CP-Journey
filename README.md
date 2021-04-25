@@ -123,3 +123,20 @@ Topic Name - 2) Pairs <br>
 | 3 | [Given two arrays arr1[] and arr2[] of size N. The task is to make pairs containing values corresponding from arr1 and arr2 i.e. (arr1[0], arr2[0]), (arr1[1],arr2[1]) and so on.](https://www.geeksforgeeks.org/pair-in-cpp-stl/)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/CPP%20STL/2%20-%20%20Pairs/corresponding_pair.cpp)|
 | 4 | [You are given two arrays a[] (integer) and b[] (char). The ith value of a[] corresponds to the ith value of b[]. Sort the array b[] with respect to a[].](https://www.geeksforgeeks.org/sort-array-according-order-defined-another-array/)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/CPP%20STL/2%20-%20%20Pairs/sort_one_array_to_according_array.cpp)|
 
+
+Topic Name - 3) Vector <br>
+
+|No|Problem Name|Source Code|
+|--|------------|-----------|  
+| 1 | [Given an array arr[] of size N containing integers. The task is to insert elements of given array to vector and return that vector.](https://www.geeksforgeeks.org/vector-insert-function-in-c-stl/)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/CPP%20STL/3%20-%20%20Vector/vector_insertion.cpp)|
+| 2 | [Iterators are used to iterate over vectors, maps, sets etc. Here we will learn to iterate over a vector from begin to end.You are given a vector V of size n. You need to print its elements.](https://practice.geeksforgeeks.org/problems/front-to-back/1)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/CPP%20STL/3%20-%20%20Vector/front_to_back.cpp)|
+| 3 | [Given a vector of N positive integers. Your task is to print the vector elements in reverse order.](https://practice.geeksforgeeks.org/problems/back-to-front/1)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/CPP%20STL/3%20-%20%20Vector/back_to_front.cpp)|
+| 4 | [Given a vector, find the sum of the elements of this vector.](https://www.geeksforgeeks.org/how-to-find-the-sum-of-elements-of-a-vector-using-stl-in-c/)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/CPP%20STL/3%20-%20%20Vector/vector_sum.cpp)|
+| 5 | [You are given a vector V of size n. You need to sort it and reverse it.](https://practice.geeksforgeeks.org/problems/sort-and-reverse-vector/1)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/CPP%20STL/3%20-%20%20Vector/sort_and_reverse_vector.cpp)|
+| 6 | [Given a Vector V of size N containing integers. Complete below functions on given vector depending on type of erasable query1. clearAll(): This function removes all elements from vector.2. eraseAt(): This function removes element from specified position present in the vector.3. eraseInRange(): This function removes element from vector in the given range start & end.](https://www.geeksforgeeks.org/vector-erase-and-clear-in-cpp/#:~:text=Vectors%20are%20same%20as%20dynamic,handled%20automatically%20by%20the%20container.&text=clear()%20function%20is%20used,thus%20making%20it%20size%200.)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/CPP%20STL/3%20-%20%20Vector/vector_erase_and_clear.cpp)|
+| 7 | [Given a vector of N positive integers and an integer X. The task is to find the frequency of X in vector.](https://practice.geeksforgeeks.org/problems/find-the-frequency/1)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/CPP%20STL/3%20-%20%20Vector/find_the_frequency.cpp)|
+| 8 | []()| [C++ Code]()|
+| 9 | []()| [C++ Code]()|
+| 10 | []()| [C++ Code]()|
+| 11 | []()| [C++ Code]()|
+| 12 | []()| [C++ Code]()|
