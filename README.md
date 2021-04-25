@@ -38,7 +38,7 @@ Sub - C++ Basic
 | 24 | [Given an integer N. Write a program to find last digit of the number.](https://practice.geeksforgeeks.org/problems/last-digit-of-a-number/0/?track=cip-intro-var-operators&batchId=238) | [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/C%2B%2B%20BASIC/1%20-%20Introduction%2C%20Variables%20and%20Operators/last_digit_of_a_number.cpp) | 
 | 25 | [Given three integer, a,d and n. Where a is the first term, d is the common difference of an A.P.  Calculate the nth term of A.P.  The nth term is given by an = a + (n-1)d](https://practice.geeksforgeeks.org/problems/ap-term/0/?track=cip-intro-var-operators&batchId=238) | [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/C%2B%2B%20BASIC/1%20-%20Introduction%2C%20Variables%20and%20Operators/AP_term.cpp) | 
 </details>
-<br>
+
 
 <details>
 <summary><em><strong>2) Flow Control, Function & Loops</em></strong></summary>
