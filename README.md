@@ -1,5 +1,4 @@
-<h1 align="center"><em><strong>My CP Journey</em></strong></h1>
-In this repo i am upload all code which i am solve throughout my journey learn CP.
+<h1 align="center" ><em><strong>My CP Journey</em></strong></h1>
 
 
 <div align="center">
