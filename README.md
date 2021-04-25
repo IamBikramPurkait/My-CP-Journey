@@ -119,8 +119,10 @@ In this repo i am upload all code which i am solve throughout my journey learn C
 
 ---
 
-Sub - C++ STL<br>
 
+<div align="center">
+<img src="https://img.shields.io/badge/C%2B%2B-STL-red" height="30px">
+</div>
 
 <details>
 <summary><em><strong>1) STL Overview</strong></em></summary>
@@ -168,7 +170,10 @@ Sub - C++ STL<br>
 
 ---
 
-Sub - DSA Basic <br>
+
+<div align="center">
+<img src="https://img.shields.io/badge/DSA-Basic-green" height="30px">
+</div>
 
 
 <details>
@@ -224,7 +229,10 @@ Sub - DSA Basic <br>
 
 ---
 
-Sub - DSA Advance <br>
+
+<div align="center">
+<img src="https://img.shields.io/badge/DSA-Advance-orange" height="30px">
+</div>
 
 <details>
 <summary><em><strong>1) Mathematics</strong></em></summary>
