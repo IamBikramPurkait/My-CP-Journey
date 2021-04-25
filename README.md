@@ -103,6 +103,7 @@ Topic Name - 4) Structure and Union
 |--|------------|-----------|  
 | 1 | [Structures are very useful when we want to create Linked Lists and Trees. Here we will learn to create a Linked List struct.You have to make struct for Linked List.](https://practice.geeksforgeeks.org/problems/learning-structs/0/?track=cip-struct-union&batchId=238)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/C%2B%2B%20BASIC/4%20-%20%20Structure%20and%20Union/learning_structs.cpp)|
 
+---
 
 Sub - C++ STL<br>
 Topic Name - 1) STL Overview<br>
@@ -111,4 +112,6 @@ Topic Name - 1) STL Overview<br>
 |--|------------|-----------|  
 | 1 | [Template in C++ is a feature. We write code once and use it for any data type including user defined data types.Given three cases :1st case when two strings are given , print the smallest of the two strings.2nd case when two integers are given, print the smallest of the two integers.3rd case when two char are given , print the smallest of the two characters(lowercase).Your task is to complete class minElement which would include a private variable say y, a constructor which would set the given value to the private variable. And a method check() which would take one parameter say x and print the min of x and y(private variable) .First line of each input will contain 1 integer c. Next line will contain two strings if c is equal to 1 or will contain two integers if c is equal to 2 or will contain two char if value of c is equal to 3. We have to print the lowest of the two values given.](https://www.geeksforgeeks.org/templates-cpp/)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/CPP%20STL/1%20-%20%20STL%20Overview/c%2B%2B_template.cpp)|
 | 2 | [You need to sort elements of an array where the array can be of following data-types:Integer,String,floating number.Your task is to complete the given two functions: sortArray() and printArray().The input line contains 2 lines. The first line contains n(size of array) and q(type of array) separated by space. Below is the description about q.q = 1, means elements of the array are of integer type,q = 2, means elements of the array are of string type,q = 3, means elements of array are of floating digit type,The second line contains n elements of the array separated by space.We have to print the elements in sorted form of given type of array separated by space.](https://practice.geeksforgeeks.org/problems/c-generic-sort/1)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/CPP%20STL/1%20-%20%20STL%20Overview/c%2B%2B_generic_sort.cpp)|
+
+---
 
