@@ -140,3 +140,12 @@ Topic Name - 3) Vector <br>
 | 10 | [Given a vector of pairs of size n where first element of pair is the age and the second element is the height, you need to sort the vector of pairs in descending order by the second item of the pair. And if the second items are equal, then sort it by first element.](https://www.geeksforgeeks.org/sorting-vector-of-pairs-in-c-set-1-sort-by-first-and-second/)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/CPP%20STL/3%20-%20%20Vector/sort_vectors_of_pairs.cpp)|
 | 11 | [We will be given the roll number along with marks. One student may have a different number of subjects. We will also be given subjects code in numeric forms. We need to return the list in ascending order such that if roll numbers are the same then we should return the list in ascending order of the marks and if marks are also same then return the list in ascending order of their subject code.](https://practice.geeksforgeeks.org/problems/increasing-roll-and-marks/0/?track=cip-vector&batchId=238)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/CPP%20STL/3%20-%20%20Vector/increasing_roll_and_marks.cpp)|
 | 12 | [Given a vector V of n elements. Return the vector containing prime numbers that are at prime index(1-indexing).](https://www.geeksforgeeks.org/program-print-characters-present-prime-index-given-string/)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/CPP%20STL/3%20-%20%20Vector/prime_at_prime_index.cpp)|
+
+---
+
+Sub - DSA Basic <br>
+Topic Name - 1) Analysis of Algorithms <br>
+
+|No|Problem Name|Source Code|
+|--|------------|-----------|  
+| 1 | [Quiz](https://www.geeksforgeeks.org/analysis-of-algorithms-set-1-asymptotic-analysis/)| [Pdf](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/DSA%20BASIC/1%20-%20%20Analysis%20of%20Algorithms/Quiz.pdf)|
