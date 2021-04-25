@@ -5,11 +5,9 @@ In this repo i am upload all code which i am solve throughout my journey learn C
 Sub - C++ Basic
 <br>
 
-<details>
-<summary>1) Introduction, Variables and Operators</summary>
-<br>
-
 ![C++ Basic](https://img.shields.io/badge/C%2B%2B%20Basic-Introduction%2C%20Variables%20and%20Operators-blue)
+<details>
+<summary><em><strong>1) Introduction, Variables and Operators</strong></em></summary>
 
 |No|Problem Name|Source Code|
 |--|------------|-----------|  
@@ -42,7 +40,7 @@ Sub - C++ Basic
 
 
 <details>
-<summary>2) Flow Control, Function & Loops</summary>
+<summary><em><strong>2) Flow Control, Function & Loops</em></strong></summary>
 
 |No|Problem Name|Source Code|
 |--|-----------|-----------|  
@@ -73,7 +71,7 @@ Sub - C++ Basic
 
 
 <details>
-<summary>3) Arrays, String, Pointers & Reference</summary>
+<summary><em><strong>3) Arrays, String, Pointers & Reference</em></strong></summary>
 
 |No|Problem Name|Source Code|
 |--|------------|-----------|  
@@ -105,7 +103,7 @@ Sub - C++ Basic
 
 
 <details>
-<summary>4) Structure and Union</summary>
+<summary><em><strong>4) Structure and Union</em></strong></summary>
 
 |No|Problem Name|Source Code|
 |--|------------|-----------|  
