@@ -180,8 +180,9 @@ Topic Name - 3) Recursion <br>
 | 2 | [You are given a number n. You need to recursively find the factorial of n and return it.](https://www.geeksforgeeks.org/program-for-factorial-of-a-number/)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/DSA%20BASIC/3%20-%20%20Recursion/factorial_using_recursion.cpp)|
 | 3 | [You are given a number n. You need to find the count of digits in n.](https://www.geeksforgeeks.org/count-total-number-digits-1-n/)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/DSA%20BASIC/3%20-%20%20Recursion/count_total_digits_of_a_number.cpp)|
 | 4 | [You are given a number n. You need to find the sum of digits of n.](https://www.geeksforgeeks.org/program-for-sum-of-the-digits-of-a-given-number/)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/DSA%20BASIC/3%20-%20%20Recursion/sum_of_a_digits_of_a_number.cpp)|
-| 5 | []()| [C++ Code]()|
-| 6 | []()| [C++ Code]()|
-| 7 | []()| [C++ Code]()|
+| 5 | [You are given a number n. You need to recursively sum the numbers from 1 to n and return the sum.](https://www.geeksforgeeks.org/sum-of-natural-numbers-using-recursion/)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/DSA%20BASIC/3%20-%20%20Recursion/recursively_sum_of_an_N_numbers.cpp)|
+| 6 | [You are given a number n. You need to find nth Fibonacci number.
+F(n)=F(n-1)+F(n-2); where F(1)=1 and F(2)=1](https://www.geeksforgeeks.org/program-for-nth-fibonacci-number/)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/DSA%20BASIC/3%20-%20%20Recursion/fibonacci_using_recursion.cpp)|
+| 7 | [You are given a number n. You need to recursively find the nth term of the series S that is given by:S(n) = n+ n*(S(n-1)) and S(0) = 1](https://practice.geeksforgeeks.org/problems/the-sequence/0/?track=DSA-Foundation-Recursion&batchId=238)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/DSA%20BASIC/3%20-%20%20Recursion/the_sequence.cpp)|
 | 8 | []()| [C++ Code]()|
 | 9 | []()| [C++ Code]()|
