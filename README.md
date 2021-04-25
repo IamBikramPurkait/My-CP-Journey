@@ -35,3 +35,39 @@ Topic Name - 1) Introduction, Variables and Operators
 | 24 | [Given an integer N. Write a program to find last digit of the number.](https://practice.geeksforgeeks.org/problems/last-digit-of-a-number/0/?track=cip-intro-var-operators&batchId=238) | [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/development/GFG/C%2B%2B%20BASIC/1%20-%20Introduction%2C%20Variables%20and%20Operators/last_digit_of_a_number.cpp) | 
 | 25 | [Given three integer, a,d and n. Where a is the first term, d is the common difference of an A.P.  Calculate the nth term of A.P.  The nth term is given by an = a + (n-1)d](https://practice.geeksforgeeks.org/problems/ap-term/0/?track=cip-intro-var-operators&batchId=238) | [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/development/GFG/C%2B%2B%20BASIC/1%20-%20Introduction%2C%20Variables%20and%20Operators/AP_term.cpp) | 
 
+
+Topic Name - 2) Flow Control, Function & Loops
+<br>
+
+|No|Problem Name|Source Code|
+|--|------------|-----------|  
+| 1 | [Given an integer N. Your task is to check if the integer is greater than, less than or equal to 5.If the integer is greater than 5, then print "Greater than 5" (without quotes).If the integer is less than 5, then print "Less than 5".If the integer is equal to 5, then print "Equal to 5".](https://practice.geeksforgeeks.org/problems/c-if-else-decision-making4138/1)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/development/GFG/C%2B%2B%20BASIC/2%20-%20%20Flow%20Control%2C%20Function%20%26%20Loops/if_else.cpp)|
+| 2 | [For an input year N, find whether the year is a leap or not. ](https://practice.geeksforgeeks.org/problems/leap-year0943/1)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/development/GFG/C%2B%2B%20BASIC/2%20-%20%20Flow%20Control%2C%20Function%20%26%20Loops/leapyear.cpp)|
+| 3 | [Given a number, you have to use switch statement to print "One" (without quotes) if the given number is equal to 1 else print "Not One"(without quotes).](https://practice.geeksforgeeks.org/problems/switch-statement/0/?track=cip-flow-function-loop&batchId=238)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/development/GFG/C%2B%2B%20BASIC/2%20-%20%20Flow%20Control%2C%20Function%20%26%20Loops/switch_statement.cpp)|
+| 4 | [Given a number, represents number of apples in a bag. You and your friend are playing a game. Both of you are picking one apple turn wise from the bag. It is given that first attempt is always by you. The person picking the last apple will be the winner. Find out the winner if the quantity of apples is given to you as a number.If you will win: Print "You" (without quotes)If your friend will win: Print "Friend" (without quotes)](https://practice.geeksforgeeks.org/problems/even-odd-game/0/?track=cip-flow-function-loop&batchId=238)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/development/GFG/C%2B%2B%20BASIC/2%20-%20%20Flow%20Control%2C%20Function%20%26%20Loops/even_odd_game.cpp)|
+| 5 | [Given 3 numbers A, B and C. Find the greatest number among them.](https://practice.geeksforgeeks.org/problems/greatest-of-three-numbers2520/1)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/development/GFG/C%2B%2B%20BASIC/2%20-%20%20Flow%20Control%2C%20Function%20%26%20Loops/greatest_of_three_numbers.cpp)|
+| 6 | [Given two numbers a and b; you need to perform basic mathematical operation on them. You will be provided an integer named as operator.If operator equals to 1 add a and b, then print the result.If operator equals to 2 subtract b from a, then print the result.If operator equals to 3 multiply a and b, then print the result.If operator equals to any another number, print "Invalid Input"(without quotes).](https://practice.geeksforgeeks.org/problems/calculator/0/?track=cip-flow-function-loop&batchId=238)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/development/GFG/C%2B%2B%20BASIC/2%20-%20%20Flow%20Control%2C%20Function%20%26%20Loops/calculator.cpp)|
+| 7 | [You are given a number n. You need to find nth Fibonacci number.F(n)=F(n-1)+F(n-2); where F(1)=1 and F(2)=1](https://practice.geeksforgeeks.org/problems/fibonacci-using-recursion/0/?track=cip-flow-function-loop&batchId=238)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/development/GFG/C%2B%2B%20BASIC/2%20-%20%20Flow%20Control%2C%20Function%20%26%20Loops/fibbonacci_using_recursion.cpp)|
+| 8 | [You have to find exact volume of some objects just by knowing the some of their dimensions. Here we will find volume of a cube and a rectangular box by completing the given functions.](https://practice.geeksforgeeks.org/problems/1dc3a6ff68b90b33383d1d91e255b7a171eab092/0/?track=cip-flow-function-loop&batchId=238)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/development/GFG/C%2B%2B%20BASIC/2%20-%20%20Flow%20Control%2C%20Function%20%26%20Loops/find_volume.cpp)|
+| 9 | [You have to generate a single sum() function which can take two, three or four parameters and will return sum of all the numbers. Suppose if we are given with 2 integer values a and b we have to return (a+b), if given 3 integer values a, b and c we have to return (a+b+c) and similarly for 4 numeric values (a+b+c+d). Function call will be like this:If 2 integers : sum(a, b);If 3 integers : sum(a, b, c);If 4 integers : sum(a, b, c, d); ](https://practice.geeksforgeeks.org/problems/1629703dd82d0d2898f59a1d467238a94929f620/0/?track=cip-flow-function-loop&batchId=238)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/development/GFG/C%2B%2B%20BASIC/2%20-%20%20Flow%20Control%2C%20Function%20%26%20Loops/sum_default_arguments.cpp)|
+| 10 | [Given a number N, find the first digit of the number.](https://practice.geeksforgeeks.org/problems/first-digit-of-a-number/0/?track=cip-flow-function-loop&batchId=238)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/development/GFG/C%2B%2B%20BASIC/2%20-%20%20Flow%20Control%2C%20Function%20%26%20Loops/first_digit_of_number.cpp)|
+| 11 | []()| [C++ Code]()|
+| 12 | []()| [C++ Code]()|
+| 13 | []()| [C++ Code]()|
+| 14 | []()| [C++ Code]()|
+| 15 | []()| [C++ Code]()|
+| 16 | []()| [C++ Code]()|
+| 17 | []()| [C++ Code]()|
+| 18 | []()| [C++ Code]()|
+| 19 | []()| [C++ Code]()|
+| 20 | []()| [C++ Code]()|
+| 21 | []()| [C++ Code]()|
+| 22 | []()| [C++ Code]()|
+| 23 | []()| [C++ Code]()|
+| 24 | []()| [C++ Code]()|
+| 25 | []()| [C++ Code]()|
+| 26 | []()| [C++ Code]()|
+| 27 | []()| [C++ Code]()|
+| 28 | []()| [C++ Code]()|
+| 29 | []()| [C++ Code]()|
+| 30 | []()| [C++ Code]()|
