@@ -4,7 +4,7 @@ In this repo i am upload all code which i am solve throughout my journey learn C
 
 <div align="center">
 <img src=
-"images/gfg.png" alt="GeeksforGeeks logo">
+"images/gfg.png" alt="GeeksforGeeks logo" width="500px">
 </div>
 <br>
 <br>
