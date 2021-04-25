@@ -1,15 +1,19 @@
+<!-- Heading -->
 <h1 align="center"><em><strong>My CP Journey</em></strong></h1>
 
+<!--GFG Logo  -->
 <div align="center">
 <img src=
 "images/gfg.png" alt="GeeksforGeeks logo" width="350px">
 </div>
 <br>
 
+<!-- C++ Basic Section -->
 <div align="center">
 <img src="https://img.shields.io/badge/C%2B%2B-Basic-blue" height="30px">
 </div>
 
+<!-- Topic - 1 -->
 <details>
 <summary><em><strong>1) Introduction, Variables and Operators</strong></em></summary>
 <br>
@@ -44,6 +48,7 @@
 </details>
 
 
+<!-- Topic - 2 -->
 <details>
 <summary><em><strong>2) Flow Control, Function & Loops</em></strong></summary>
 <br>
@@ -76,6 +81,7 @@
 </details>
 
 
+<!-- Topic - 3 -->
 <details>
 <summary><em><strong>3) Arrays, String, Pointers & Reference</em></strong></summary>
 <br>
@@ -109,6 +115,7 @@
 </details>
 
 
+<!-- Topic - 4 -->
 <details>
 <summary><em><strong>4) Structure and Union</em></strong></summary>
 <br>
@@ -121,10 +128,12 @@
 
 
 
+<!-- C++ STl -->
 <div align="center">
 <img src="https://img.shields.io/badge/C%2B%2B-STL-red" height="30px">
 </div>
 
+<!-- Topic - 1 -->
 <details>
 <summary><em><strong>1) STL Overview</strong></em></summary>
 <br>
@@ -136,6 +145,7 @@
 </details>
 
 
+<!-- Topic - 2 -->
 <details>
 <summary><em><strong>2) Pairs</strong></em></summary>
 <br>
@@ -149,6 +159,7 @@
 </details>
 
 
+<!-- Topic - 3 -->
 <details>
 <summary><em><strong>3) Vector</strong></em></summary>
 <br>
@@ -171,11 +182,13 @@
 
 
 
+<!-- DSA Basic -->
 <div align="center">
 <img src="https://img.shields.io/badge/DSA-Basic-green" height="30px">
 </div>
 
 
+<!-- Topic - 1 -->
 <details>
 <summary><em><strong>1) Analysis of Algorithm</strong></em></summary>
 <br>
@@ -186,6 +199,7 @@
 </details>
 
 
+<!-- Topic - 2 -->
 <details>
 <summary><em><strong>2) Arrays</strong></em></summary>
 <br>
@@ -210,6 +224,7 @@
 </details>
 
 
+<!-- Topic - 3 -->
 <details>
 <summary><em><strong>3) Recursion</strong></em></summary>
 <br>
@@ -230,10 +245,12 @@
 
 
 
+<!-- DSA Advance -->
 <div align="center">
 <img src="https://img.shields.io/badge/DSA-Advance-orange" height="30px">
 </div>
 
+<!-- Topic - 1 -->
 <details>
 <summary><em><strong>1) Mathematics</strong></em></summary>
 <br>
@@ -249,6 +266,7 @@
 </details>
 
 
+<!-- Topic - 9 -->
 <details>
 <summary><em><strong>9) Strings</strong></em></summary>
 <br>
