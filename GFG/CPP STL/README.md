@@ -39,7 +39,7 @@
 
 <!-- Topic - 3 -->
 <div align="center">
-<img src="https://img.shields.io/badge/C%2B%2B%20STL-Vector-lightgrey" height="30px">
+<img src="https://img.shields.io/badge/C%2B%2B%20STL-Vector-blue" height="30px">
 </div>
 
 |No|Problem Name|Source Code|
