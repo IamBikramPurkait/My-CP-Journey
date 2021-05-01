@@ -11,6 +11,7 @@
 <img src="https://img.shields.io/badge/C%2B%2B%20Basic-Introduction%2C%20Variables%20and%20Operators-red" height="30px">
 </div>
 
+<br>
 
 |No|Problem Name|Source Code|
 |--|------------|-----------|  
@@ -47,6 +48,8 @@
 <img src="https://img.shields.io/badge/C%2B%2B%20Basic-Flow%20Control%2C%20Function%20%26%20Loops-blue" height="30px">
 </div>
 
+<br>
+
 |No|Problem Name|Source Code|
 |--|-----------|-----------|  
 | 1 | [Given an integer N. Your task is to check if the integer is greater than, less than or equal to 5.If the integer is greater than 5, then print "Greater than 5" (without quotes).If the integer is less than 5, then print "Less than 5".If the integer is equal to 5, then print "Equal to 5".](https://practice.geeksforgeeks.org/problems/c-if-else-decision-making4138/1)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/C%2B%2B%20BASIC/2%20-%20%20Flow%20Control%2C%20Function%20%26%20Loops/if_else.cpp)|
@@ -80,6 +83,8 @@
 <div align="center">
 <img src="https://img.shields.io/badge/C%2B%2B%20Basic-Arrays%2C%20String%2C%20Pointers%20%26%20Reference-brightgreen" height="30px">
 </div>
+
+<br>
 
 |No|Problem Name|Source Code|
 |--|------------|-----------|  
@@ -115,6 +120,8 @@
 <div align="center">
 <img src="https://img.shields.io/badge/C%2B%2B%20Basic-Structure%20and%20Union-yellowgreen" height="30px">
 </div>
+
+<br>
 
 |No|Problem Name|Source Code|
 |--|------------|-----------|  
