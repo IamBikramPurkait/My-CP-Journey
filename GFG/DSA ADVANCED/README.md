@@ -11,6 +11,7 @@
 <img src="https://img.shields.io/badge/DSA%20Advanced-Mathematics-yellow" height="30px">
 </div>
 
+<br>
 
 |No|Problem Name|Source Code|
 |--|------------|-----------|  
@@ -29,6 +30,7 @@
 <img src="https://img.shields.io/badge/DSA%20Advanced-Strings-blue" height="30px">
 </div>
 
+<br>
 
 |No|Problem Name|Source Code|
 |--|------------|-----------|  

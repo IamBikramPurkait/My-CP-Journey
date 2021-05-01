@@ -11,6 +11,7 @@
 <img src="https://img.shields.io/badge/DSA%20Basic-Analysis%20of%20Algorithms-red" height="30px">
 </div>
 
+<br>
 
 |No|Problem Name|Source Code|
 |--|------------|-----------|  
@@ -24,6 +25,7 @@
 <img src="https://img.shields.io/badge/DSA%20Basic-Arrays-blue" height="30px">
 </div>
 
+<br>
 
 |No|Problem Name|Source Code|
 |--|------------|-----------|  
@@ -51,6 +53,7 @@
 <img src="https://img.shields.io/badge/DSA%20Basic-Recursion-orange" height="30px">
 </div>
 
+<br>
 
 |No|Problem Name|Source Code|
 |--|------------|-----------|  
