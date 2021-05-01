@@ -119,4 +119,3 @@
 |No|Problem Name|Source Code|
 |--|------------|-----------|  
 | 1 | [Structures are very useful when we want to create Linked Lists and Trees. Here we will learn to create a Linked List struct.You have to make struct for Linked List.](https://practice.geeksforgeeks.org/problems/learning-structs/0/?track=cip-struct-union&batchId=238)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/C%2B%2B%20BASIC/4%20-%20%20Structure%20and%20Union/learning_structs.cpp)|
-
