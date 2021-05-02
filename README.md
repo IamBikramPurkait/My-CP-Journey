@@ -284,4 +284,3 @@
 | 9 | [Given a string S and a pattern P consisting of lowercase characters. The task is to check if pattern P exists in the given string S or not.](https://practice.geeksforgeeks.org/problems/distinct-pattern-search-1587115620/0/?track=P100-Strings%20%20%20&batchId=238)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/DSA%20ADVANCE/9%20-%20Strings/pattern_serach.cpp)|
 | 10 | [Your task is to implement the function strstr. The function takes two strings as arguments (s,x) and  locates the occurrence of the string x in the string s. The function returns and integer denoting the first occurrence of the string x in s (0 based indexing).](https://practice.geeksforgeeks.org/problems/implement-strstr/1)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/DSA%20ADVANCE/9%20-%20Strings/implement_strstr.cpp)|
 </details>
-
