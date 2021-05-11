@@ -28,17 +28,36 @@
 | 6 | [If Give an integer N . Write a program to obtain the sum of the first and last digits of this number.](https://www.codechef.com/problems/FLOW004)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/development/Codechef/sum_of_first_and_last_digit.cpp)|
 </details>
 
+<br>
+<br>
 
 
+<!--CSES Logo  -->
+<div align="center">
+<img src=
+"images/cses.png" alt="cses logo" width="350px">
+</div>
+<br>
 
+<!-- Practice Section -->
+<div align="center">
+<img src="https://img.shields.io/badge/CSES-Practice-red" height="30px">
+</div>
 
+<!-- Introductory Problems -->
+<details>
+<summary><em><strong>1) Introductory Problems</strong></em></summary>
+<br>
 
-
-
+|No|Problem Name|Source Code|
+|--|------------|-----------|  
+| 1 | [You are given all numbers between 1,2,…,n except one. Your task is to find the missing number.](https://cses.fi/problemset/task/1083)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/CSES/Introductory%20Problems/missing_number.cpp)|
+</details>
 
 
 <br>
 <br>
+
 
 <!--GFG Logo  -->
 <div align="center">
