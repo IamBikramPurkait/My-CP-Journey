@@ -35,7 +35,7 @@
 <!--CSES Logo  -->
 <div align="center">
 <img src=
-"images/cses.png" alt="cses logo" width="350px">
+"images/cses.png" alt="cses logo" width="350px" height="120px">
 </div>
 <br>
 
