@@ -96,3 +96,19 @@
 
 <br>
 
+<!-- Topic - 6 -->
+<div align="center">
+<img src="https://img.shields.io/badge/C%2B%2B%20STL-Set%20and%20Multiset-blue" height="30px">
+</div>
+
+<br>
+
+|No|Problem Name|Source Code|
+|--|------------|-----------|  
+| 1 | [You are given an array A of size N. you need to insert the elements of A into a set and display the results. Also, you need to erase a given element x from the set and print "erased x" if successfully erased, else print "not found".](https://practice.geeksforgeeks.org/problems/set-operations/1)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/CPP%20STL/9%20-%20Set%20and%20Multiset/set_opeartions.cpp)|
+| 2 | [You are given an list arr of size n. You need to print the distinct elements of arr in sorted order(non-decreasing).](https://practice.geeksforgeeks.org/problems/distinct-sorted/0/?track=cip-set-multiset&batchId=238)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/CPP%20STL/9%20-%20Set%20and%20Multiset/distinct_sorted.cpp)|
+| 3 | [Given a string str, return the string with all distinct characters from the string without using sorting algorithm.](https://practice.geeksforgeeks.org/problems/print-different-characters-in-sorted-manner/0/?track=cip-set-multiset&batchId=238)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/CPP%20STL/9%20-%20Set%20and%20Multiset/print_different_characters_in_sorted_manner.cpp)|
+| 4 | [You are given an array A of size N. you need to insert the elements of A into a multiset and display the results. Also, you need to erase a given element x from the multiset and print "erased x" if successfully erased, else print "not found".](https://www.geeksforgeeks.org/multiset-in-cpp-stl/)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/CPP%20STL/9%20-%20Set%20and%20Multiset/multiset_opeartions.cpp)|
+
+<br>
+
