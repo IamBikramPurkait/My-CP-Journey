@@ -60,6 +60,7 @@
 | 11 | [We will be given the roll number along with marks. One student may have a different number of subjects. We will also be given subjects code in numeric forms. We need to return the list in ascending order such that if roll numbers are the same then we should return the list in ascending order of the marks and if marks are also same then return the list in ascending order of their subject code.](https://practice.geeksforgeeks.org/problems/increasing-roll-and-marks/0/?track=cip-vector&batchId=238)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/CPP%20STL/3%20-%20%20Vector/increasing_roll_and_marks.cpp)|
 | 12 | [Given a vector V of n elements. Return the vector containing prime numbers that are at prime index(1-indexing).](https://www.geeksforgeeks.org/program-print-characters-present-prime-index-given-string/)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/CPP%20STL/3%20-%20%20Vector/prime_at_prime_index.cpp)|
 
+<br>
 
 <!-- Topic - 4 -->
 <div align="center">
@@ -74,3 +75,24 @@
 | 2 | [Given a forward list of size N. Complete below functions depending on the type of erasable query.1. removeFromFront(): this function should remove from the front of the list.2. removeAfter(X): this function should remove the element after specified position X mention in the argument3. removeFromInRange(start, end): this function should remove the elements present within the range start(excluded) and end  given in argument.4. removeAll(): this function should remove from all the elements from list.](https://www.geeksforgeeks.org/forward-list-c-set-1-introduction-important-functions/)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/CPP%20STL/4%20-%20forward_list%20and%20List/forward_list_deletion.cpp)|
 | 3 | [You are given a list of size n. You need to erase only one element after the default iterator position.](https://www.geeksforgeeks.org/forward-list-c-set-1-introduction-important-functions/)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/CPP%20STL/4%20-%20forward_list%20and%20List/forward_list_erase_after.cpp)|
 | 4 | [Implement different operation on List A i.e. adding an element in front and end, removing an element from the front and end, sorting elements, reversing the list and printing the list.](https://www.geeksforgeeks.org/list-cpp-stl/)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/CPP%20STL/4%20-%20forward_list%20and%20List/c%2B%2Bstl_list.cpp)|
+
+<br>
+
+<!-- Topic - 5 -->
+<div align="center">
+<img src="https://img.shields.io/badge/C%2B%2B%20STL-Strings%20and%20More-orange" height="30px">
+</div>
+
+<br>
+
+|No|Problem Name|Source Code|
+|--|------------|-----------|  
+| 1 | [Given two strings a and b consisting of lowercase characters. The task is to check whether two given strings are an anagram of each other or not. An anagram of a string is another string that contains the same characters, only the order of characters can be different. For example, “act” and “tac” are an anagram of each other.](https://practice.geeksforgeeks.org/problems/anagram-1587115620/1)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/CPP%20STL/15%20-%20Strings%20and%20more/anagram.cpp)|
+| 2 | [Given two strings which are of lengths n and n+1. The second string contains all the character of the first string, but there is one extra character. Your task to find the extra character in the second string.](https://www.geeksforgeeks.org/find-one-extra-character-string/)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/CPP%20STL/15%20-%20Strings%20and%20more/find_one_extra_chr.cpp)|
+| 3 | [Given a string str and a pattern pat. You need to check whether pattern is present or not in the given string. ](https://practice.geeksforgeeks.org/problems/pattern-searching5231/0/?track=cip-stl-miscellaneous&batchId=238)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/CPP%20STL/15%20-%20Strings%20and%20more/pattern_searching.cpp)|
+| 4 | [Your task is to implement the function strstr. The function takes two strings as arguments (s,x) and  locates the occurrence of the string x in the string s. The function returns and integer denoting the first occurrence of the string x in s (0 based indexing).Note: You are not allowed to use inbuilt function.](https://practice.geeksforgeeks.org/problems/implement-strstr/0/?track=cip-stl-miscellaneous&batchId=238)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/CPP%20STL/15%20-%20Strings%20and%20more/implement_strstr.cpp)|
+| 5 | [You are given a string s. You need to find if the string is a panagram or not.A panagram contains all the letters of english alphabet at least once.](https://practice.geeksforgeeks.org/problems/pangram-checking/0)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/CPP%20STL/15%20-%20Strings%20and%20more/panagram_checking.cpp)|
+| 6 | [Given a positive number N. You need to find the number of set bits in the binary representation of N using __builtin_ popcount() function.__builtin_popcount(x): count the number of one’s(set bits) in an integer.](https://practice.geeksforgeeks.org/problems/number-of-set-bits)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/CPP%20STL/15%20-%20Strings%20and%20more/set_bits_in_N.cpp)|
+
+<br>
+
