@@ -1,7 +1,7 @@
 <!--GFG Logo  -->
 <div align="center">
 <img src=
-"../../images/codechef.png" alt="Codechef logo" width="350px">
+"../images/codechef.png" alt="Codechef logo" width="350px">
 </div>
 <br>
 
