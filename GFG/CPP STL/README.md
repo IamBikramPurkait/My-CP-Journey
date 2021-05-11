@@ -61,3 +61,16 @@
 | 12 | [Given a vector V of n elements. Return the vector containing prime numbers that are at prime index(1-indexing).](https://www.geeksforgeeks.org/program-print-characters-present-prime-index-given-string/)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/CPP%20STL/3%20-%20%20Vector/prime_at_prime_index.cpp)|
 
 
+<!-- Topic - 4 -->
+<div align="center">
+<img src="https://img.shields.io/badge/C%2B%2B%20STL-Vector-blue" height="30px">
+</div>
+
+<br>
+
+|No|Problem Name|Source Code|
+|--|------------|-----------|  
+| 1 | [You are given an array of size n. You need to insert the elements of this array in to a forward list.](https://www.geeksforgeeks.org/forward-list-c-set-1-introduction-important-functions/)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/CPP%20STL/4%20-%20forward_list%20and%20List/forward_list_insert.cpp)|
+| 2 | [Given a forward list of size N. Complete below functions depending on the type of erasable query.1. removeFromFront(): this function should remove from the front of the list.2. removeAfter(X): this function should remove the element after specified position X mention in the argument3. removeFromInRange(start, end): this function should remove the elements present within the range start(excluded) and end  given in argument.4. removeAll(): this function should remove from all the elements from list.](https://www.geeksforgeeks.org/forward-list-c-set-1-introduction-important-functions/)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/CPP%20STL/4%20-%20forward_list%20and%20List/forward_list_deletion.cpp)|
+| 3 | [You are given a list of size n. You need to erase only one element after the default iterator position.](https://www.geeksforgeeks.org/forward-list-c-set-1-introduction-important-functions/)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/CPP%20STL/4%20-%20forward_list%20and%20List/forward_list_erase_after.cpp)|
+| 4 | [Implement different operation on List A i.e. adding an element in front and end, removing an element from the front and end, sorting elements, reversing the list and printing the list.](https://www.geeksforgeeks.org/list-cpp-stl/)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/GFG/CPP%20STL/4%20-%20forward_list%20and%20List/c%2B%2Bstl_list.cpp)|
