@@ -14,6 +14,7 @@
 </div>
 
 <br>
+
 <!-- Beginner Section -->
 <details>
 <summary><em><strong>1) Beginner Section</strong></em></summary>
