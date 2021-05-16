@@ -4,7 +4,7 @@
 <!--Codechef Logo  -->
 <div align="center">
 <img src=
-"images/codechef.png" alt="Codechef logo" width="350px">
+"images/codechef.png" alt="Codechef logo" width="300px">
 </div>
 <br>
 
@@ -59,7 +59,7 @@
 <!--CSES Logo  -->
 <div align="center">
 <img src=
-"images/cses.png" alt="cses logo" width="350px" height="120px">
+"images/cses.png" alt="cses logo" width="300px" height="120px">
 </div>
 <br>
 
