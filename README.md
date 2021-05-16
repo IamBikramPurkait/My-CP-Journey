@@ -4,7 +4,7 @@
 <!--Codechef Logo  -->
 <div align="center">
 <img src=
-"images/codechef.png" alt="Codechef logo" width="300px">
+"images/codechef.png" alt="Codechef logo" width="320px">
 </div>
 <br>
 
@@ -48,7 +48,7 @@
 | 3 | [For a given N, find the number of ways to choose an integer x from the range [0,2N−1] such that x⊕(x+1)=(x+2)⊕(x+3), where ⊕ denotes the bitwise XOR operator.Since the number of valid x can be large, output it modulo 109+7.](https://www.codechef.com/MAY21C/problems/XOREQUAL)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/tree/main/Codechef/Contest/May%20Challenge%202021%20Div%203/XOREQUAL)|
 | 4 | [Tic-tac-toe is a game played between two players on a 3×3 grid. In a turn, a player chooses an empty cell and places their symbol on the cell. The players take alternating turns, where the player with the first turn uses the symbol X and the other player uses the symbol O. The game continues until there is a row, column, or diagonal containing three of the same symbol (X or O), and the player with that token is declared the winner. Otherwise if every cell of the grid contains a symbol and nobody won, then the game ends and it is considered a draw.](https://www.codechef.com/MAY21C/problems/TCTCTOE)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/tree/main/Codechef/Contest/May%20Challenge%202021%20Div%203/TCTCTOE)|
 | 5 | [Given integers N and M, find the number of ordered pairs (a,b) such that 1≤a<b≤N and ((M mod a) mod b)=((M mod b) mod a).](https://www.codechef.com/MAY21C/problems/MODEQ)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/tree/main/Codechef/Contest/May%20Challenge%202021%20Div%203/MODEQ)|
-| 6 | [Zanka finds fun in everyday simple things. One fine day he got interested in a very trivial sequence. Given a natural number k, he considers the sequence Ai=k+i2 so that the terms arek+1,k+4,k+9,k+16,…Now to make things more interesting, he considers the gcd of consecutive terms in the sequence, then takes the sum of the first 2k values. More formally, he wants to compute∑i=12kgcd(Ai,Ai+1)Denote this sum by S. Zanka wants you to print the number S for each k.](https://www.codechef.com/MAY21C/problems/ISS)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/tree/main/Codechef/Contest/May%20Challenge%202021%20Div%203/ISS)|
+| 6 | [Zanka finds fun in everyday simple things. One fine day he got interested in a very trivial sequence. Given a natural number k, he considers the sequence Ai=k+i2 so that the terms arek+1,k+4,k+9,k+16,…Now to make things more interesting, he considers the gcd of consecutive terms in the sequence, then takes the sum of the first 2k values. More formally, he wants to compute∑i=12kgcd(Ai,Ai+1)Denote this sum by S. Zanka wants you to print the number S for each k.](https://www.codechef.com/MAY21C/problems/ISS)| [C++ Code](https://github.com/IamBikramPurkait/My-CP-Journey/blob/main/Codechef/Contest/May%20Challenge%202021%20Div%203/ISS/ISS.cpp)|
 </details>
 
 <br>
