@@ -13,6 +13,7 @@
 <img src="https://img.shields.io/badge/Codechef-Practice-blue" height="30px">
 </div>
 
+<br>
 <!-- Beginner Section -->
 <details>
 <summary><em><strong>1) Beginner Section</strong></em></summary>
